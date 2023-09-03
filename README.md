@@ -36,6 +36,11 @@ launch.json和task.json
 
  **07_smart_poniter**  
  智能指针  
+
+ **08_vector**  
+ stl标准模板库，使用vector存储自定义数据结构  
+
+ 
  
 
 
