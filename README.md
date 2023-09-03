@@ -32,7 +32,11 @@ launch.json和task.json
  引入了抽象类，当定义的类内部的方法使用了virtual和 = 0修饰时，为纯虚函数，也叫抽象类，需要在派生类实现  
 
  **06_template**  
- 函数、类模板
+ 函数、类模板  
+
+ **07_smart_poniter**  
+ 智能指针  
+ 
 
 
 
