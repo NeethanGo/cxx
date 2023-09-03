@@ -6,9 +6,22 @@
 
 # 配置自动化编译调试
 新建文件夹 .vscode，然后在文件夹下新建如下2个文件
-launch.json和task.json
-**注意**
- 在launch.json文件中"preLaunchTask": "Build soldierGun", // 此处名字，需要通过tasks.json文件 的task lable决定
+launch.json和task.json  
 
+**注意**  
+
+ 在launch.json文件中"preLaunchTask": "Build soldierGun", // 此处名字，需要通过tasks.json文件 的task lable决定  
+ 
  **配置完成，按F5即可选择c/c++自动化调试**
+
+ # 课程目录
+ **01_helloworld**  
+ 第一个c++应用程序
+
+ **02_soldier_gun**
+ 实例化了士兵和枪对象，通过cmake语法及launch.json,task.json实现自动化编译、调试，此章节涉及面较为全面
+
+ **03_singleton**  
+ 设计模式，单例，表示在一个线程或进程里，对于这个类只实例化一个对象
+
 
