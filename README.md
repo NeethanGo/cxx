@@ -24,7 +24,7 @@ launch.json和task.json
  **03_singleton_lazy**  
  设计模式之单例(懒汉模式)，表示在一个线程或进程里，对于这个类只实例化一个对象  
 
-  **04_singleton_eager**  
+ **04_singleton_eager**  
  设计模式之单例(饿汉模式)，表示在一个线程或进程里，对于这个类只实例化一个对象  
 
  **05_bridge**  
@@ -38,9 +38,10 @@ launch.json和task.json
  智能指针  
 
  **08_vector**  
- stl标准模板库，使用vector存储自定义数据结构  
-
- 
+ stl标准模板库，使用vector存储自定义数据结构。vector容器是单向开口的连续内存空间。  
+   
+ **09_deque**  
+ stl标准模板库，使用deque存储数据。deque是双向开口的连续线性空间，可以在头尾两端分别作元素插入和删除。
  
 
 
